@@ -81,6 +81,7 @@
                 <div class="title m-b-md">
                     Jainifit
                 </div>
+                <p>Let's get committed to be fit.</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
