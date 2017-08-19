@@ -2,6 +2,10 @@ branch-defaults:
   master:
     environment: jainifit-dev
     group_suffix: null
+environment-defaults:
+  jainifit-dev:
+    branch: null
+    repository: null
 global:
   application_name: jainifit
   branch: null
